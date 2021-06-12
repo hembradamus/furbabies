@@ -8,8 +8,13 @@ img{
     max-width: 250px;
 }
 nav{
-    position: fixed;
-    width: 99%;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    margin: 0 0 24px;
+}
+.cupcakes{
+    position: sticky;
 }
 nav div{
     display: inline-block;
@@ -24,7 +29,6 @@ section div div{
 }
 .left, .right{
     min-height: 1080px;
-    margin: 78px 0 0;
 }
 .left{
     float: left;
