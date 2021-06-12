@@ -3,7 +3,6 @@
 }
 body{
     font-family: Helvetica, Arial, sans-serif;
-    float: left;
 }
 img{
     max-width: 250px;
@@ -63,5 +62,7 @@ section div div{
 }
 #test{
     min-height: 100px;
-    float: left;
+}
+#bottom{
+    width:100%;
 }
