@@ -61,7 +61,7 @@ section div div{
     padding: 0 8px;;
 }
 #test{
-    min-height: 100px;
+    float: left;
 }
 #bottom{
     width:100%;
