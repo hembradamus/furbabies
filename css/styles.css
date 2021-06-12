@@ -1,0 +1,61 @@
+.draft{
+    background-color: #ff000022;
+}
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+img{
+    max-width: 250px;
+}
+nav{
+    position: fixed;
+    width: 99%;
+}
+nav div{
+    display: inline-block;
+    padding: 20px 40px;
+}
+section div{
+    margin-bottom: 20px;
+    padding: 48px;
+}
+section div div{
+    padding: 10px;
+}
+.left, .right{
+    min-height: 1080px;
+    margin: 78px 0 0;
+}
+.left{
+    float: left;
+    width: 29%;
+}
+.right{
+    float: right;
+    width: 70%;
+}
+
+.avatar{
+    text-align: center;
+}
+.avatar img{
+    max-width: 200px;
+}
+
+.header img{
+    display:inline-block;
+    max-height: 300px;
+}
+.header div{
+    display: inline-block;
+    vertical-align: bottom;
+    width: 400px;
+}
+.images{
+    text-align: center;
+}
+.image-container img{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 8px;;
+}
