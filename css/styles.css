@@ -3,6 +3,7 @@
 }
 body{
     font-family: Helvetica, Arial, sans-serif;
+    min-height: 1000px;
 }
 img{
     max-width: 250px;
@@ -11,10 +12,7 @@ nav{
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    margin: 0 0 24px;
-}
-.cupcakes{
-    position: sticky;
+    margin: 0 0 20px;
 }
 nav div{
     display: inline-block;
